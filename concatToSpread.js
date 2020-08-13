@@ -14,3 +14,4 @@ console.log(allFriend);
 console.log(concatToSpread);
 const Array = [1,2,3,4,5,6];
 console.log(...Array);
+// it is not array
